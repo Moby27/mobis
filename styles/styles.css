@@ -46,3 +46,12 @@ body{
     text-decoration: none;
     color: white;
 }
+.hero{
+    background-image: url("../images/image\ 4.3.jpg");
+    background-size: cover;
+    height: 707px;
+}
+.title{
+    margin: 0;
+    
+}
